@@ -1,7 +1,5 @@
 package com.sub.user;
 
-import com.add.user.Addition;
-
 public class Substraction{
 
 	public static void main(String[] args) 
